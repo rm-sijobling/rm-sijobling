@@ -10,6 +10,8 @@
 
 ## Works with…
 
-**Raise a PR with your name here**
-
+- @rm-benbowley
+- @rm-eduardomarval
 - @rm-iainhuntington
+- @rm-rachelnewby
+- @rm-regsondorego
